@@ -1,2 +1,2 @@
 # ShaquileOatmeal-s-HomeLab
-Documentation of my personal home Lab
+This is where i will document all changes to my homelab software OR hardware related.
