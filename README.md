@@ -7,3 +7,7 @@ objectives - develop cyber security understanding
            - document education for cyber security
            - develop reporting skills (personal and enterprise)
            -sudo apt -get opsec lol
+
+
+
+website is located at  http://localhost:1313/
