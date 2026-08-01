@@ -1,2 +1,3 @@
 # ShaquileOatmeal-s-HomeLab
-Documentation of my personal home Lab
+Here is where i will document the setup, services, networking and incidents
+relevant to my home lab
